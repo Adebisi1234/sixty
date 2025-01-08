@@ -61,7 +61,7 @@ body {
   border-left: 0.625rem solid transparent;
   border-right: 0.625rem solid transparent;
 
-  border-bottom: 1.25rem solid #888888;
+  border-bottom: 1.25rem solid #d2d9df;
   content: "";
   position: absolute;
   left: 50%;
