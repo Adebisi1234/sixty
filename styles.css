@@ -96,7 +96,7 @@ body {
   transform: translate(-50%, 100%);
 }
 .end::before {
-  color: "#fff";
+  color: #d2d9df;
   z-index: 2;
   content: "Outro";
   position: absolute;
@@ -113,7 +113,7 @@ body {
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
 
-  border-bottom: 20px solid #888888;
+  border-bottom: 20px solid #d2d9df;
   content: "";
   position: absolute;
   left: 50%;
@@ -133,7 +133,7 @@ body {
   transform: translate(50%, -30%);
   border-radius: 50%;
   height: 20px;
-  background-color: #888888;
+  background-color: #d2d9df;
 }
 .mid {
   position: absolute;
