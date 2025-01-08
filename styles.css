@@ -122,8 +122,6 @@ body {
 }
 .end {
   position: absolute;
-  outline-offset: -10%;
-  outline: 2px solid white;
   right: 0;
   display: flex;
   justify-content: center;
